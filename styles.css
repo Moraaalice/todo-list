@@ -1,0 +1,65 @@
+.rectangle{
+    width: 50%;
+    height: 20px;
+    background-color: #F0F0F0;
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+}
+#task{
+    margin-top: -5px;
+    font-size: 29px;
+}
+
+input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+    transition: background-color 0.3s ease;
+    background-color: #ccc;
+  }
+  .todo-list{
+    border: solid black;
+    margin: 0 auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+  #word5{
+    margin-left: 20px;
+  }
+  .form{
+    margin-right: 70%;
+  }
+  .form hr{
+    width: 640px;
+  }
+
+  .form2{
+    margin-right: 440px;
+  }
+  .head-gen{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+  }
+  body{
+    background-color: #FADCB0;
+  }
+
+
+   
+
+
+
+
+
+
+
+
+
+
